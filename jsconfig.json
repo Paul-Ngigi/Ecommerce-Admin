@@ -1,7 +1,8 @@
-// Allows absolute imports to come from the src directory.
 {
     "compilerOptions": {
         "baseUrl": "src"
     },
     "include": ["src"]
 }
+
+// Allows absolute imports to come from the src directory.
